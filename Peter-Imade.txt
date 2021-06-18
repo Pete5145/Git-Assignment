@@ -15,7 +15,7 @@ Codebits Stretch Review questions:
 			Solutions
 1. Git is a version control system that lets you manage and keep track of your source code history, While Github is GitHub is a cloud-based hosting service that lets you manage Git repositories.
 2. The benefits of using Version Control System is having a backup of your files and also keeping track of any change made to your files.
-3. 
+3. python, C, C++, perl.
 4.Gitlab
   Bitbucket
   Codebase
