@@ -1,4 +1,4 @@
-odebits Stretch Review questions: 
+Codebits Stretch Review questions: 
     1. What is the difference between Git and Github?
     2. What are the benefits of using Version Control System? 
     3. What language is used in Git?
@@ -13,4 +13,30 @@ odebits Stretch Review questions:
 
 
 			Solutions
-1.Git is a software for keep track of your files
+1. Git is a version control system that lets you manage and keep track of your source code history, While Github is GitHub is a cloud-based hosting service that lets you manage Git repositories.
+2. The benefits of using Version Control System is having a backup of your files and also keeping track of any change made to your files.
+3. 
+4.Gitlab
+  Bitbucket
+  Codebase
+  Sourceforge
+
+5. A repository in Git is like a data structure used by Version Control System to store metadata for a set of files and directories. This repository tracks all changes made to files in your project, building a history over time.
+
+6. Create a directory(folder) to contain the project.
+   Go into the new directory.
+   Type git init.
+   Write some code.
+   Type git add to add the files
+   Type git commit.
+
+7. Git init : This command turns a directory into an empty Git repository. This is the first step in creating a repository.
+   Git add : Adds files to the staging area for Git. Before a file is available to commit to a repository, the file needs to be added to the Git index.
+   Git status: This command returns the current state of the repository.
+   Git clone: To create a local working copy of an existing remote repository.
+   Git pull: To get the latest version of a repository. This pulls the changes from the remote repository to the local computer.
+   Git push: Sends local commit to the remote repository.
+   Git log: To show the chronological commit history for a repository. This helps give context and history for a repository.
+8.Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+9. .git Directory contains all the information that is necessary for your project in version control and all the information about commits, remote repository address, etc. All of them are present in this folder.
+10. If the .git directory gets deleted the folder will no longer be under versioning control. 
